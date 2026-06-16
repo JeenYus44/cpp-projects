@@ -17,7 +17,7 @@ int main(void) {
     int answer1, answer2, answer3;
     char strvar(5);
     
-    /* Introduction
+    //Introduction
     cout << "This program is to be used to illustrate various statemnts"
         << endl;
     cout << "in the C++ programming language.  It will show basic" << endl;
@@ -63,7 +63,7 @@ int main(void) {
      cout << "Number 3 - (Number 2 + Number1) = " << answer2 << enl;
      cout << endl << "Number 3 * (Number 2 + Number 1) = ";
      cout << answer3 << endl;
-     cout << endl;*/
+     cout << endl;
     
     return 0;
 } // main
